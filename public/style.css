@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    width: 70%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.coluna-esquerda{
+    width: 35%;
+    padding: 30px;
+    background-color: #f8f4f1;
+    text-align: center;
+}
+
+.coluna-direita{
+    width:65%;
+    padding: 30px;
+    text-align: center;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
